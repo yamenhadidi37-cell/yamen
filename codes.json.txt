@@ -1,4 +1,7 @@
 {
-  "VALID_CODES": {"ULTRA-1M-8821": { "days": 30, "plan": "باقة الشهر المميزة" },
+  "VALID_CODES": {
+   
+    "ULTRA-1M-9932": { "days": 30, "plan": "باقة الشهر المميزة" },
+   
   }
 }

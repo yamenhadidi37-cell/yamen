@@ -1,24 +1,5 @@
 [
   {
-     "id": "zssx91e72",
-    "senderId": "ultra-vault-family-master-core-v2",
-    "senderName": "عضو_286",
-    "timestamp": 1768763909924,
-    "type": "movie",
-    "content": "يامن حبيبي ",
-    "fileData": {
-      "name": "اخر ديك في مصر ",
-      "url": "",
-      "posterUrl": "https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/20b56e10dc487975ca5a6933cc9999a3/OmFbH3vPjcWxewIY5fLt.jpg?q=70&w=500",
-      "backdropUrl": "",
-      "description": "علاء الديك (محمد رمضان) موظف في بنك، لكنه يكره النساء منذ الصغر ويتجنب أية معاملات مع نساء عائلته، وعندما يتوجه مع رجال عائلته لرحلة نيلية، يموت جميع رجال العائلة فيما عداه، واﻵن عليه أن يتحمل المسؤولية الكاملة عن شؤون عائلته التي صارت جميعها من النساء فقط بما أنه قد بات الرجل الوحيد في العائلة.\n\n",
-      "episodes": [],
-      "isHero": false,
-      "type": "video/url",
-      "size": 0
-    }
-  },
-  {
     "id": "zssx91e72",
     "senderId": "ultra-vault-family-master-core-v2",
     "senderName": "عضو_286",
@@ -28,7 +9,7 @@
     "fileData": {
       "name": "اخر ديك في مصر ",
       "url": "",
-      "posterUrl": "https://a.asd.homes/wp-content/uploads/2022/06/آخر-ديك-في-مصر-388x550.webp",
+      "posterUrl": "https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/20b56e10dc487975ca5a6933cc9999a3/OmFbH3vPjcWxewIY5fLt.jpg?q=70&w=500",
       "backdropUrl": "",
       "description": "علاء الديك (محمد رمضان) موظف في بنك، لكنه يكره النساء منذ الصغر ويتجنب أية معاملات مع نساء عائلته، وعندما يتوجه مع رجال عائلته لرحلة نيلية، يموت جميع رجال العائلة فيما عداه، واﻵن عليه أن يتحمل المسؤولية الكاملة عن شؤون عائلته التي صارت جميعها من النساء فقط بما أنه قد بات الرجل الوحيد في العائلة.\n\n",
       "episodes": [],
